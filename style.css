@@ -17,6 +17,7 @@ ul {
 p {
     font-size: 13px;
     color:#868686;
+    line-height: 1.5em;
 }
 
 h1, h2, h4, h5, p {
@@ -26,7 +27,8 @@ h1, h2, h4, h5, p {
 }
 
 h5 {
-  padding-bottom:10px;
+  font-size:0.5;
+  padding-bottom:2px;
 }
 
 body {
@@ -86,6 +88,11 @@ body {
 .profile-section {
   background-color:#086176;
   color: #fff;
+}
+
+.profile-section h3 {
+  font-size: 1.3em;
+  margin: 0 0 5px 0;
 }
 
 .profile-section p {
