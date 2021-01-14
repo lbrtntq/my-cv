@@ -66,8 +66,8 @@ body {
   margin-bottom: 20px;
 }
 
-.main-wrapper h4 {
-  /**color: #42a8c0;**/
+.main-wrapper section {
+  margin-bottom:30px;
 }
 .sidebar-wrapper {
   flex-grow: 1;
